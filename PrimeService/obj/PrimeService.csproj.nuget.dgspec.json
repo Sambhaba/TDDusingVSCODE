@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {}
+    "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+    "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectPath": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\Sambhav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+        "outputPath": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sambhav\\AppData\\Roaming\\NuGet\\NuGet.Config"
