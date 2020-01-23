@@ -5840,11 +5840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
       "projectName": "PrimeService.Tests",
-      "projectPath": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
+      "projectPath": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
       "packagesPath": "C:\\Users\\Sambhav\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sambhav\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5858,8 +5858,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
-              "projectPath": "c:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj"
+            "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+              "projectPath": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj"
             }
           }
         }
