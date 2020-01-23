@@ -1,0 +1,8 @@
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\bin\Release\netstandard2.0\PrimeService.deps.json
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\bin\Release\netstandard2.0\PrimeService.dll
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\bin\Release\netstandard2.0\PrimeService.pdb
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\obj\Release\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\obj\Release\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\obj\Release\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\obj\Release\netstandard2.0\PrimeService.dll
+C:\Users\Sambhav\TestApp\unit-testing-using-dotnet-test\PrimeService\obj\Release\netstandard2.0\PrimeService.pdb
