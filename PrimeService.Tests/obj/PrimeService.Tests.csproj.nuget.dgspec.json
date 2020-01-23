@@ -17,13 +17,13 @@
           "C:\\Users\\Sambhav\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
               "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
                 "projectPath": "C:\\Users\\Sambhav\\TestApp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj"
@@ -38,7 +38,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
